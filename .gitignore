@@ -1,0 +1,6 @@
+.DS_Store
+*.icloud
+*.swp
+*.o
+*.dSYM
+*.out

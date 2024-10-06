@@ -1,0 +1,5 @@
++ ./testprog 0 1
++ ./dne
+./dne: No such file or directory
+- ./dne
+- ./testprog 0 1

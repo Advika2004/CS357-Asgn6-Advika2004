@@ -1,0 +1,6 @@
++ ./testprog 0 2
++ ./testprog 0 1
+Returning 0 after 1 seconds.
+- ./testprog 0 1
+Returning 0 after 2 seconds.
+- ./testprog 0 2

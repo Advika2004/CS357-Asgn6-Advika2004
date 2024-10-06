@@ -1,0 +1,4 @@
++ ./testprog
++ ./testprog 0 2 -n 1
+- ./testprog
+- ./testprog 0 2 -n 1

@@ -1,0 +1,1 @@
+-n 2 -- ./testprog 0 1 -- ./testprog 1 4 -- ./testprog 2 2 -- ./testprog 3 2 -- ./testprog 4 3 -- ./testprog 5 1 -- ./testprog 6 3
